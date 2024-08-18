@@ -1,0 +1,6 @@
+summary: Basic functions to support pam configuration
+framework: beakerlib
+require:
+  - library(distribution/Log)
+extra-summary: /CoreOS/pam/Library/basic
+extra-task: /CoreOS/pam/Library/basic
